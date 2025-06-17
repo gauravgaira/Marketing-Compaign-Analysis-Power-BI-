@@ -1,6 +1,6 @@
 # 📊 Marketing Campaign Analysis – Power BI Dashboard
 
-![Dashboard Preview](Marketing_Campaign_Analysis.png)
+![Dashboard Preview](Market_Campaign_Analysis.png)
 
 ## 📌 Project Overview
 
