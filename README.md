@@ -117,20 +117,6 @@ RETURN
 
 ## 📂 Repository Structure
 
-```
-📁 Marketing-Campaign-Analysis/
-│
-├─ 📂 data/
-│   ├─ Marketing_Campaign_Details.csv
-│   ├─ Marketing_Campaign_Performance.csv
-│   └─ Region_Performance.csv
-│
-├─ 📂 images/
-│   └─ Marketing_Campaign_Analysis.png
-│
-├─ Marketing_Campaign_Analysis.pbix
-└─ README.md
-```
 
 ---
 
